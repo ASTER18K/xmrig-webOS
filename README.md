@@ -18,4 +18,4 @@
 This build has been tested on the following environment:
 
 - **Model:** 50QNED80JQA
-- **OS:** webOS 227.5.5-1901
+- **OS:** webOS 22 7.5.5-1901
